@@ -18,9 +18,11 @@
 
 <h3 align="left">📂 My Projects:</h3>
 <ul align="left">
-  <li><a href="https://github.com/trongly2204/remove-sensitive-documents" target="_blank">Remove Sensitive Documents</a> - Flask app using NER and regex to remove private data from text.</li>
-  <li><a href="https://github.com/trongly2204/enhance-iot-devices" target="_blank">Enhance IoT Devices</a> - Security system for IoT devices with anomaly detection.</li>
-  <li><a href="https://github.com/trongly2204/predict-age-gender-ethnicity" target="_blank">Predict Age, Gender, Ethnicity</a> - DeepFace + Flask app with HTML/CSS/JS front end.</li>
+  <li><a href="https://github.com/trongly2204/smart-doorbell" target="_blank">Smart Doorbell</a> – IoT-based doorbell system using Arduino and AWS for real-time alerts.</li>
+  <li><a href="https://github.com/trongly2204/remove-sensitive-documents" target="_blank">Remove Sensitive Documents</a> – Flask app using NER and regex to identify and redact personal information from text.</li>
+  <li><a href="https://github.com/trongly2204/E-commerce-store" target="_blank">E-commerce Store</a> – Full-stack PHP/SQL website with user login, product management, and shopping cart.</li>
+  <li><a href="https://github.com/trongly2204/Enhance-IoT-devices" target="_blank">Enhance IoT Devices</a> – Python-based system to monitor and detect security anomalies in IoT environments.</li>
+  <li><a href="https://github.com/trongly2204/predict-age-gender-ethnicity" target="_blank">Predict Age, Gender, Ethnicity</a> – Flask web app using DeepFace and a front end in HTML/CSS/JavaScript.</li>
 </ul>
 
 
